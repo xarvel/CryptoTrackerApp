@@ -1,0 +1,9 @@
+export const COLORS = {
+  YELLOW: '#FBD24D',
+  WHITE: '#FFFFFF',
+  BLUE: '#385775',
+  GREEN: '#0A8150',
+  RED: '#DE3617',
+  TEXT_PRIMARY: '#212B36',
+  TEXT_SECONDARY: '#56626E',
+};
